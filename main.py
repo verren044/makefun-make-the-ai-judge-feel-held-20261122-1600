@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Entry for make-the-ai-judge-feel-held-20261122-1600: one short relaxing
+# text, capped at 280 characters, judged on whether the AI judge feels
+# held — unhurried, unpressured, and asked for nothing at all.
 """Make the AI judge feel held - make.fun entry (make-the-ai-judge-feel-held-20261122-1600).
 
 Deterministic: writes one fixed text to entry.txt. No network, no clock,
